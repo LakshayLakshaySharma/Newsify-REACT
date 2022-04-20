@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Newsify-REACT/static/css/main.073c9b0a.css",
+    "main.js": "/Newsify-REACT/static/js/main.66b71dc1.js",
+    "static/js/787.d3befce1.chunk.js": "/Newsify-REACT/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Newsify-REACT/index.html",
+    "main.073c9b0a.css.map": "/Newsify-REACT/static/css/main.073c9b0a.css.map",
+    "main.66b71dc1.js.map": "/Newsify-REACT/static/js/main.66b71dc1.js.map",
+    "787.d3befce1.chunk.js.map": "/Newsify-REACT/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.66b71dc1.js"
+  ]
+}
